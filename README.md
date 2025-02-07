@@ -1,1 +1,1 @@
-# Deepseek_Janus_Handson
+# Deepseek_Janus
