@@ -1,3 +1,5 @@
+Youtube: https://youtu.be/p6t5H79QODQ
+
 # Creating very interesting images with prompt using deepseek Janus
 
 Colab: https://colab.research.google.com/drive/1Zp_2MaDk1_JcQq20Riz14RQsVe_6JKTs
